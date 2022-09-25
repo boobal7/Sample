@@ -9,7 +9,7 @@ public class Add {
 	System.out.println(total);
 	
 		
-		
+System.out.println("prem");		
 	}
 	public static void main(String[] args) {
 		Add a=new Add();
