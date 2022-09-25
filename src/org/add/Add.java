@@ -4,11 +4,11 @@ public class Add {
 	private void  number() {
 		int total=0;
 		int a=10;
-		int b=20;
+		int b=230;
 		total=a+b;
 	System.out.println(total);
 	
-		
+		System.out.println("boobalan");
 		
 	}
 	public static void main(String[] args) {
